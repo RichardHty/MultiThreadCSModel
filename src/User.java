@@ -6,7 +6,9 @@ import java.io.BufferedReader;
 import java.net.Socket;
 import java.net.UnknownHostException;
 
-
+/***
+Created by Richard
+***/
 public class User extends Thread {
 
     // The user socket
