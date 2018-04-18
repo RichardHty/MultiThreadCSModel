@@ -4,8 +4,8 @@ Add friends/group members. Send messages to friends/groups.
 
 ## Usage:
 ### start server:
-java Server <portNumber> <maxUsersCount>
+`java Server <portNumber> <maxUsersCount>`
 
 ### start client:
-java User <host> <portNumber>
+`java User <host> <portNumber>`
  
